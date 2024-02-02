@@ -35,5 +35,5 @@ Calculate the voltage drop across each resistor in a series circuit.
     Reason code was written: Lab for class
 
 -------------------------------------------------------------------------------------------------
-    A Joke : "MY MOM"- regular shppw
+    A Joke : "MY MOM"- regular show
 
